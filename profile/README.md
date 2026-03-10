@@ -35,3 +35,6 @@ Open source local LLM infrastructure for Node.js, web apps, React Native, and na
 - Build a dedicated WebGPU runtime core and web SDK for local LLM inference.
 - Keep local AI APIs consistent across JavaScript and native runtimes.
 - Ship open source infrastructure for web AI, on-device inference, and private model execution.
+
+## Contact
+Questions, feedback, hiring or partnership inquiries: info@hilumlabs.com
