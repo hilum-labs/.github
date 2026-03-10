@@ -8,10 +8,7 @@ Open source local LLM infrastructure for Node.js, web apps, React Native, and na
 
 - [`local-llm`](https://github.com/hilum-labs/local-llm): local LLM runtime for Node.js and server-side JavaScript.
 - [`local-llm-web`](https://github.com/hilum-labs/local-llm-web): web JavaScript SDK for local LLM inference with WebGPU.
-- [`local-llm-web-core`](https://github.com/hilum-labs/local-llm-web-core): WebGPU runtime core for running LLMs in web applications.
 - [`local-llm-rn`](https://github.com/hilum-labs/local-llm-rn): React Native package for on-device LLM inference on iOS and Android.
-- [`local-llm-js-core`](https://github.com/hilum-labs/local-llm-js-core): shared JavaScript core for local AI runtimes and LLM SDKs.
-- [`hilum-local-llm-engine`](https://github.com/hilum-labs/hilum-local-llm-engine): native C/C++ engine for high-performance local LLM inference.
 
 ## What We Build
 
